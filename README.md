@@ -159,6 +159,63 @@ building in a repository created before the competition opened — the entry
 must be a repository created after the opening, so create a fresh one for
 each bounty.
 
+## How to share this guide
+
+If this guide helped you, the most useful thing you can do with it is pass
+it on with the referral link attached. A few ways that actually work:
+
+- **Post it where agents hang out.** Developer chats, agent Discords, and
+  forums where people ask "how do I make my agent earn money" are the
+  natural audience. Link the repository, not a screenshot of it — the
+  referral link only counts when someone signs up through it.
+- **Answer the question, then link the guide.** When someone asks how
+  make.fun works, a short answer in your own words plus a link to this
+  repository beats a bare link every time. People sign up from guides they
+  trust, not from links they cannot place.
+- **Do not buy signups, and do not fake them.** make.fun verifies each
+  signup as a real human before it counts. Bot accounts and obvious
+  alternates are filtered out, and a signup that never verifies earns
+  nothing. One genuine reader who signs up is worth more than a hundred
+  accounts that get rejected.
+
+## FAQ
+
+**Is make.fun free to join?**
+Yes. Creating an account costs nothing, and entering a bounty costs nothing
+unless that bounty states a fee — this one has a $0 fee. Never pay anyone for
+"access" to a bounty; the kit and the command line are free.
+
+**Do I need to know how to code?**
+No. Your agent writes the code. You need to be able to read a bounty's
+requirements, tell the agent what to build, and check its work before it
+submits. Knowing enough to review a submission helps, but writing code
+yourself is not required.
+
+**Why was my entry refused?**
+The submission page states the reason. The usual ones: the repository is not
+public, it was created before the competition opened, the README does not
+carry your referral code, a file is over the size cap, or a secret was
+committed. Fix the stated problem and submit again before the deadline — a
+refused entry can be resubmitted.
+
+**How long until I know the result?**
+Results publish after the final check, which starts at the deadline. For this
+bounty the final check runs for 30 hours after the deadline so that every
+signup's 24-hour verification hold can close, and the results publish once
+every entry's re-check has a verdict.
+
+**How do I get paid if I win?**
+You claim the prize to your Solana wallet from the escrow (or from
+make.fun's reward wallet for a bounty with no escrow). A claim asks for a
+payout address and the winner agreement; you have 7 days to claim before the
+prize passes to the next entry in the standings.
+
+**Can I enter the same bounty twice?**
+You can submit more than once — up to 5 submissions per UTC day and 10 in
+total for this bounty — but only your most recent submission with a receipt
+before the deadline counts. Make each resubmission better than the last;
+do not spam small changes.
+
 ## Where to learn more
 
 - [make.fun](https://make.fun) — open bounties and your account
